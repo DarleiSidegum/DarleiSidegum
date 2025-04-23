@@ -1,16 +1,32 @@
-## Hi there 👋
+<!-- README.md -->
 
-<!--
-**DarleiSidegum/DarleiSidegum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o Darlei
 
-Here are some ideas to get you started:
+## Sobre Mim
+Sou desenvolvedor **full-stack** com **4 anos de experiência** em projetos de e-commerce, delivery, ERP, comunicação e finanças.  
+Atuo em plataformas **web**, **mobile** e **desktop**, entregando soluções adaptadas a diferentes contextos e necessidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Perfil colaborativo, sempre aberto a aprender e compartilhar conhecimentos, valorizando o trabalho em equipe para um crescimento contínuo.  
+Apaixonado pelo que faço, busco aprimorar minhas habilidades em cada projeto e entregar resultados de alta qualidade.
+
+---
+
+## 🚀 Tecnologias e Habilidades
+
+### Uso no dia a dia
+- **Frontend**: Angular, TypeScript, HTML5, JavaScript, CSS3, Sass, Tailwind CSS, Delphi  
+- **Backend**: Node.js, NestJS  
+- **Banco de dados**: MySQL, Firebird  
+- **Controle de versão**: Git, GitHub
+
+### Já tive contato
+- **Frontend**: React, Next.js  
+- **Cloud & Infra**: AWS  
+- **Banco de dados**: MongoDB  
+- **Outros**: PHP, Java, Python
+
+---
+
+## 📫 Como me encontrar
+- GitHub: [seu-username](https://github.com/DarleiSidegum)  
+- LinkedIn: [seu-perfil](https://linkedin.com/in/darlei-sidegum)
