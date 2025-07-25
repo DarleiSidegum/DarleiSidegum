@@ -28,5 +28,5 @@ Apaixonado pelo que faço, busco aprimorar minhas habilidades em cada projeto e 
 ---
 
 ## 📫 Como me encontrar
-- GitHub: [seu-username](https://github.com/DarleiSidegum)  
-- LinkedIn: [seu-perfil](https://linkedin.com/in/darlei-sidegum)
+- GitHub: [DarleiSidegum](https://github.com/DarleiSidegum)  
+- LinkedIn: [darlei-sidegum](https://linkedin.com/in/darlei-sidegum)
